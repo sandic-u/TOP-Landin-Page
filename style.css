@@ -217,3 +217,12 @@ h1{
 {
     margin: 0;
 }
+
+footer{
+    background-color: #1f2937;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: 18px;
+    color: #e5e7eb;
+    text-align: center;
+}   
